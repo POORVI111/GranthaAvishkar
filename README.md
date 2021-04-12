@@ -1,5 +1,5 @@
 ## GRANTHA - Learning Media App
-A learning media app that enables teachers, students or anyone willing to learn or share something with the rest of the world easily and effectively. This is Droidrush Repository of Aergia Team (Avishkar 2020- Annual Techfest of MNNIT Allahabad).
+A learning media app that enables teachers, students or anyone willing to learn or share something with the rest of the world easily and effectively. This is Droidrush Repository of Aergia Team (Avishkar 2020- Annual Techfest of MNNIT Allahabad). Our team secured 5th position in the event and a special mention for best all girls team.
 
 **Project Presentation** : [View Here](https://docs.google.com/presentation/d/1PlTaSLyTrB-amMG4pjmHFtv700vlwVKk2mmyFPW8TVk/edit#slide=id.g25f6af9dd6_0_0)<br />
 **App's APK** : [Download](https://drive.google.com/file/d/1I68AfG92yS7ki3kFzJVPL_AtI4EEEIpV/view?usp=sharing)
